@@ -1,0 +1,39 @@
+<nav class="research-jump" aria-label="Research fields">
+  {% for field in site.data.research %}
+  <a href="#{{ field.id }}">{{ field.title | escape }}</a>
+  {% endfor %}
+</nav>
+<div class="research-list">
+  {% for field in site.data.research %}
+  <section class="research-section" aria-labelledby="{{ field.id }}">
+    <h2 id="{{ field.id }}">{{ field.title | escape }}</h2>
+    <div class="paper-columns" aria-hidden="true">
+      <span>Paper &amp; materials</span><span>Authors</span><span>Publication / status</span>
+    </div>
+    {% for paper in field.papers %}
+    <article class="paper" aria-labelledby="{{ paper.id }}">
+      <div class="paper-main">
+        <h3 id="{{ paper.id }}">{{ paper.title | escape }}</h3>
+        {% if paper.chinese_title %}
+        <p class="paper-language">In Chinese<span lang="zh-Hans">{{ paper.chinese_title | escape }}</span></p>
+        {% endif %}
+        {% if paper.links %}
+        <p class="paper-links">
+          {% for link in paper.links %}
+          <a href="{{ link.url | escape }}" aria-label="{{ link.label | escape }}: {{ paper.title | escape }}">{{ link.label | escape }}</a>
+          {% endfor %}
+        </p>
+        {% endif %}
+      </div>
+      <p class="paper-authors">
+        {% for author in paper.authors %}{% if author == site.name %}<strong>{{ author | escape }}</strong>{% else %}{{ author | escape }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}
+      </p>
+      <p class="paper-status">
+        {% if paper.journal %}<em>{{ paper.journal | escape }}</em><span class="status-detail">{{ paper.year }}</span>{% else %}Working paper{% endif %}
+        {% if paper.status %}<span class="status-detail">{{ paper.status | escape }}</span>{% endif %}
+      </p>
+    </article>
+    {% endfor %}
+  </section>
+  {% endfor %}
+</div>

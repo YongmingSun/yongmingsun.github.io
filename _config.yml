@@ -13,7 +13,7 @@ repository               : "YongmingSun/YongmingSun.github.io"
 
 # Site Author - The following control what appears in the author sidebar.
 author:
-  avatar           :
+  avatar           : "yongming-sun.png"
   name             : "Yongming Sun"
   pronouns         :
   bio              : "PhD Candidate in Economics, Zhejiang University"
@@ -125,6 +125,25 @@ include:
   - _pages
   - files
 exclude:
+  # Archive old sections and template demonstrations; the site has three main pages.
+  - _posts
+  - SITE_UPDATE_NOTES.md
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/cv-json.md
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/publications.html
+  - _pages/sitemap.md
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/talks.html
+  - _pages/teaching.html
+  - _pages/terms.md
+  - _pages/year-archive.html
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -178,16 +197,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 # Defaults
@@ -279,3 +298,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+

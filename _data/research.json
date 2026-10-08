@@ -1,0 +1,408 @@
+[
+  {
+    "id": "ai-skills-innovation",
+    "title": "AI, Skills & Innovation",
+    "papers": [
+      {
+        "id": "j-13",
+        "title": "Mechanisms Through Which Artificial Intelligence Technological Innovation Drives Entrepreneurship: Evidence from Manufacturing",
+        "authors": [
+          "Mengtao Chen",
+          "Yongming Sun",
+          "Wenwei Chen"
+        ],
+        "journal": "Science Research Management",
+        "year": "2026",
+        "status": "Online first",
+        "chinese_title": "人工智能技术创新驱动创业的机制研究——来自制造业的证据",
+        "links": [
+          {
+            "label": "Paper",
+            "url": "https://link.cnki.net/urlid/11.1567.G3.20260306.0940.002"
+          }
+        ]
+      },
+      {
+        "id": "j-6",
+        "title": "Enterprise Digital Transformation and Disruptive Technological Innovation: Micro Evidence from Patent Networks and the SBERT Model",
+        "authors": [
+          "Xianhai Huang",
+          "Yongming Sun",
+          "Mengtao Chen"
+        ],
+        "journal": "China Industrial Economics",
+        "year": "2024",
+        "chinese_title": "企业数字化转型与颠覆性技术创新——来自专利网络与SBERT模型的微观证据",
+        "links": [
+          {
+            "label": "Paper",
+            "url": "https://doi.org/10.19581/j.cnki.ciejournal.2024.10.008"
+          }
+        ]
+      },
+      {
+        "id": "j-3",
+        "title": "Does artificial intelligence affect firms' inner wage gap?",
+        "authors": [
+          "Yiming Yuan",
+          "Yongming Sun",
+          "Hangyu Chen"
+        ],
+        "journal": "Applied Economics",
+        "year": "2024",
+        "links": [
+          {
+            "label": "Paper",
+            "url": "https://doi.org/10.1080/00036846.2024.2324090"
+          }
+        ]
+      },
+      {
+        "id": "w-7",
+        "title": "Artificial Intelligence and Skills: Evidence from Contrastive Learning in Online Job Vacancies",
+        "authors": [
+          "Hangyu Chen",
+          "Yongming Sun",
+          "Yiming Yuan"
+        ],
+        "links": [
+          {
+            "label": "Working paper",
+            "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5924344"
+          }
+        ]
+      },
+      {
+        "id": "w-2",
+        "title": "AI and the Reconstruction of Firm Task-Governance Boundaries: Evidence from Labor Outsourcing",
+        "authors": [
+          "Yongming Sun",
+          "Zhiyuan Li",
+          "Mengtao Chen"
+        ],
+        "chinese_title": "人工智能与企业任务治理边界重构——来自劳务外包的证据",
+        "status": "Revision after external review at The Journal of World Economy"
+      },
+      {
+        "id": "w-3",
+        "title": "Supply Chain Risk and the Dual Margins of Firms' Labor Skills",
+        "authors": [
+          "Yongming Sun",
+          "Yiming Yuan",
+          "Hangyu Chen",
+          "Xianhai Huang"
+        ],
+        "chinese_title": "供应链风险与企业劳动力技能二元边际",
+        "status": "Under external review at Economic Research Journal"
+      },
+      {
+        "id": "w-1",
+        "title": "AI Technology Empowers Firms' Disruptive Innovation: A Global Patent Network Analysis Based on Machine Learning",
+        "authors": [
+          "Xianhai Huang",
+          "Yiming Yuan",
+          "Yongming Sun"
+        ],
+        "chinese_title": "人工智能技术赋能企业颠覆性创新的机理研究——基于机器学习的全球专利网络分析",
+        "status": "Final review at Management World"
+      },
+      {
+        "id": "w-4",
+        "title": "Industrial Digitalization and High-Quality Firm Development: A Consumer-Demand-Oriented Perspective",
+        "authors": [
+          "Yiming Yuan",
+          "Xianhai Huang",
+          "Yongming Sun"
+        ],
+        "chinese_title": "产业数字化与企业高质量发展——基于消费需求导向视角",
+        "status": "Initial review at China Industrial Economics"
+      }
+    ]
+  },
+  {
+    "id": "international-trade",
+    "title": "International Trade",
+    "papers": [
+      {
+        "id": "j-1",
+        "title": "Digital Technology and Firms' Export Quality Upgrading: Evidence from Machine Learning on Patent Texts",
+        "authors": [
+          "Xianhai Huang",
+          "Handi Wang",
+          "Yongming Sun",
+          "et al."
+        ],
+        "journal": "The Journal of Quantitative & Technical Economics",
+        "year": "2023",
+        "chinese_title": "数字技术与企业出口质量升级——来自专利文本机器学习的证据",
+        "links": [
+          {
+            "label": "Paper",
+            "url": "https://doi.org/10.13653/j.cnki.jqte.20231018.002"
+          }
+        ]
+      },
+      {
+        "id": "w-6",
+        "title": "Domestic demand and export: evidence from e-commerce and information consumption",
+        "authors": [
+          "Yongming Sun",
+          "Yiming Yuan",
+          "Mengqin Pan",
+          "et al."
+        ],
+        "status": "1st R&R at International Review of Economics & Finance"
+      },
+      {
+        "id": "w-9",
+        "title": "Export Demand Shocks, Resource Allocation and Markups: Evidence from Chinese Multi-Product Firms",
+        "authors": [
+          "Lei Wang",
+          "Yiming Yuan",
+          "Yongming Sun",
+          "et al."
+        ],
+        "links": [
+          {
+            "label": "Working paper",
+            "url": "https://scholar.google.com/scholar?oi=bibs&cluster=8461268338469892322&btnI=1&hl=en"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "behavioral-cognitive-economics",
+    "title": "Behavioral & Cognitive Economics",
+    "papers": [
+      {
+        "id": "j-11",
+        "title": "Compressed representations and attentional competition in numeric integration for average estimations",
+        "authors": [
+          "Yongming Sun",
+          "Alice Mason",
+          "Sebastian Olschewski"
+        ],
+        "journal": "Cognitive Psychology",
+        "year": "2026",
+        "links": [
+          {
+            "label": "Paper",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0010028525000684"
+          },
+          {
+            "label": "Materials",
+            "url": "https://osf.io/qf2gp/"
+          }
+        ]
+      },
+      {
+        "id": "j-5",
+        "title": "Risky effort",
+        "authors": [
+          "Alice Mason",
+          "Yongming Sun",
+          "Nick Simonsen",
+          "et al."
+        ],
+        "journal": "Cognition",
+        "year": "2024",
+        "links": [
+          {
+            "label": "Paper",
+            "url": "https://doi.org/10.1016/j.cognition.2024.105895"
+          }
+        ]
+      },
+      {
+        "id": "task-specific-numeric-judgments",
+        "title": "Task-specific Strategies Can Obscure the Inference from Observed Numeric Magnitude Judgments to Cognitive Processes",
+        "authors": [
+          "Yongming Sun",
+          "Sebastian Olschewski",
+          "Henrik Singmann",
+          "Lukasz Walasek"
+        ],
+        "links": [
+          {
+            "label": "Code",
+            "url": "https://github.com/YongmingSun/strategicaveraging"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "public-economics-inequality",
+    "title": "Public Economics & Inequality",
+    "papers": [
+      {
+        "id": "j-10",
+        "title": "Digital dividends? Rural E-commerce policy and urban-rural income disparity in China",
+        "authors": [
+          "Lei Wang",
+          "Yongming Sun"
+        ],
+        "journal": "Telecommunications Policy",
+        "year": "2025",
+        "links": [
+          {
+            "label": "Paper",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0308596125001557"
+          }
+        ]
+      },
+      {
+        "id": "j-7",
+        "title": "Build or Break? The Impact of Rural E-commerce on Household Income Inequality in China",
+        "authors": [
+          "Yongming Sun",
+          "Yiming Yuan",
+          "et al."
+        ],
+        "journal": "Review of Development Economics",
+        "year": "2025",
+        "links": [
+          {
+            "label": "Paper",
+            "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/rode.13221"
+          }
+        ]
+      },
+      {
+        "id": "j-8",
+        "title": "Digital government and firm innovation: evidence from textual analysis of local government purchases in China",
+        "authors": [
+          "Mengtao Chen",
+          "Yongming Sun",
+          "et al."
+        ],
+        "journal": "Applied Economics Letters",
+        "year": "2025",
+        "links": [
+          {
+            "label": "Paper",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/13504851.2025.2530151"
+          }
+        ]
+      },
+      {
+        "id": "w-5",
+        "title": "Does digital government development impede firms' R&D manipulation? Evidence from government procurement",
+        "authors": [
+          "Mengtao Chen",
+          "Yongming Sun"
+        ],
+        "status": "2nd R&R at Humanities and Social Sciences Communications"
+      },
+      {
+        "id": "female-inventors",
+        "title": "Three Decades of Female Inventors in Technological Innovation",
+        "authors": [
+          "Yongming Sun",
+          "Yiming Yuan",
+          "Kang Zhou"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "other-research",
+    "title": "Other Research",
+    "papers": [
+      {
+        "id": "j-12",
+        "title": "Strategic Opportunism or Risk Response? Customer Real Earnings Management Following Supplier Litigation",
+        "authors": [
+          "Mengtao Chen",
+          "Yongming Sun"
+        ],
+        "journal": "The British Accounting Review",
+        "year": "2026",
+        "links": [
+          {
+            "label": "Paper",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0890838926000831"
+          }
+        ]
+      },
+      {
+        "id": "j-9",
+        "title": "The first-mover advantage in FinTech: evidence from the banking industry in China",
+        "authors": [
+          "Shuangzhi Yang",
+          "Yongming Sun"
+        ],
+        "journal": "Applied Economics Letters",
+        "year": "2025",
+        "links": [
+          {
+            "label": "Paper",
+            "url": "https://doi.org/10.1080/13504851.2025.2575818"
+          }
+        ]
+      },
+      {
+        "id": "j-4",
+        "title": "How do banks finance firm innovation: evidence from syndicated loans in China",
+        "authors": [
+          "Yongming Sun",
+          "Mengtao Chen"
+        ],
+        "journal": "Applied Economics",
+        "year": "2024",
+        "links": [
+          {
+            "label": "Paper",
+            "url": "https://doi.org/10.1080/00036846.2024.2369724"
+          }
+        ]
+      },
+      {
+        "id": "j-2",
+        "title": "The impact of housing macroprudential policy on firm innovation: empirical evidence from China",
+        "authors": [
+          "Mengtao Chen",
+          "Haojie Zhu",
+          "Yongming Sun",
+          "et al."
+        ],
+        "journal": "Humanities and Social Sciences Communications",
+        "year": "2023",
+        "links": [
+          {
+            "label": "Paper",
+            "url": "https://doi.org/10.1057/s41599-023-02010-4"
+          }
+        ]
+      },
+      {
+        "id": "w-8",
+        "title": "Does ESG divergence discourage firms from hoarding bad news? Evidence from crash risk",
+        "authors": [
+          "Mengtao Chen",
+          "Yongming Sun"
+        ],
+        "links": [
+          {
+            "label": "Working paper",
+            "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5051791"
+          }
+        ]
+      },
+      {
+        "id": "w-10",
+        "title": "The Heterogeneity Impact of Geographical Proximity to Credit Resource on Firms' Market Performance",
+        "authors": [
+          "Yongming Sun"
+        ],
+        "links": [
+          {
+            "label": "Working paper",
+            "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169225"
+          }
+        ]
+      }
+    ]
+  }
+]

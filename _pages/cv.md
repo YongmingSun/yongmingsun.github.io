@@ -1,19 +1,28 @@
 ---
-layout: archive
-title: "CV"
+layout: academic
+title: "Curriculum vitae"
+nav: CV
+page_class: cv
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
+  - /talks/
+  - /portfolio/
+  - /cv-json/
 ---
+
+# Curriculum vitae
+
+<p class="cv-contact">School of Economics, Zhejiang University<br><a href="mailto:yongming.sun@zju.edu.cn">yongming.sun@zju.edu.cn</a></p>
 
 ## Profile
 
-Ph.D. candidate in Economics at Zhejiang University, expected September 2026. Research interests include **international economics**, **behavioral economics**, and **public economics**. Methodological expertise includes econometric analysis, machine learning, natural language processing, text-as-data methods, and computational cognitive modeling.
+Ph.D. candidate in Economics at Zhejiang University. Research interests include **international economics**, **behavioral economics**, and **public economics**. Methodological expertise includes econometric analysis, machine learning, natural language processing, text-as-data methods, and computational cognitive modeling.
 
 ## Education
 
-- **Zhejiang University**, Ph.D. in Economics, September 2022 – September 2026 expected. Hangzhou, China.
+- **Zhejiang University**, Ph.D. in Economics, September 2022 – present. Hangzhou, China.
 - **University of Warwick**, MSc in Behavioral and Economic Science, Distinction, September 2020 – September 2021. Coventry, United Kingdom.
 - **Regent's University London**, Exchange Program in Business and Management, September 2018 – February 2019. London, United Kingdom.
 - **Donghua University**, B.A. in Economics, September 2016 – June 2020. Shanghai, China.
@@ -24,7 +33,7 @@ Ph.D. candidate in Economics at Zhejiang University, expected September 2026. Re
 2. Mengtao Chen, Haojie Zhu, **Yongming Sun**, et al. (2023). “The impact of housing macroprudential policy on firm innovation: empirical evidence from China.” *Humanities and Social Sciences Communications*, 10(1), 498.
 3. Yiming Yuan, **Yongming Sun**, and Hangyu Chen. (2024). “Does artificial intelligence affect firms' inner wage gap?” *Applied Economics*, 1–7.
 4. **Yongming Sun** and Mengtao Chen. (2024). “How do banks finance firm innovation: evidence from syndicated loans in China.” *Applied Economics*, 1–17.
-5. Alice Mason, **Yongming Sun**, Nick Simonsen, et al. (2024). “Risky effort.” *Cognition*, 251, 105895. **[ABS 4 Journal]**
+5. Alice Mason, **Yongming Sun**, Nick Simonsen, et al. (2024). “Risky effort.” *Cognition*, 251, 105895.
 6. Xianhai Huang, **Yongming Sun**, and Mengtao Chen. (2024). “Enterprise Digital Transformation and Disruptive Technological Innovation: Micro Evidence from Patent Networks and the SBERT Model.” *China Industrial Economics* / 中国工业经济, 10, 137–154. **[Chinese-language publication]** Original title: <span lang="zh-Hans">企业数字化转型与颠覆性技术创新——来自专利网络与SBERT模型的微观证据</span>.
 7. **Yongming Sun**, Yiming Yuan, et al. (2025). “Build or Break? The Impact of Rural E-commerce on Household Income Inequality in China.” *Review of Development Economics*.
 8. Mengtao Chen, **Yongming Sun**, et al. (2025). “Digital government and firm innovation: evidence from textual analysis of local government purchases in China.” *Applied Economics Letters*.
@@ -80,3 +89,4 @@ Ph.D. candidate in Economics at Zhejiang University, expected September 2026. Re
 ## References
 
 References are available on request. Referees include Xianhai Huang, Kang Zhou, Alice Mason, and Sebastian Olschewski.
+

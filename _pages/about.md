@@ -1,35 +1,28 @@
 ---
+layout: academic
 permalink: /
 title: "Yongming Sun"
-author_profile: true
+nav: Home
+page_class: home
+author_profile: false
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics at Zhejiang University, with expected completion in September 2026. My research spans **international economics**, **behavioral economics**, and **public economics**, with a methodological focus on econometric analysis, machine learning, natural language processing, and computational cognitive modeling.
+<section class="profile-intro" aria-labelledby="profile-name">
+  <img class="profile-photo" src="{{ '/images/yongming-sun.png' | relative_url }}" alt="Portrait of Yongming Sun" width="1024" height="1024" fetchpriority="high">
+  <div class="profile-details">
+    <h1 id="profile-name">Yongming Sun</h1>
+    <p>Ph.D. Candidate in Economics<br>School of Economics<br>Zhejiang University</p>
+    <p class="profile-email"><a href="mailto:yongming.sun@zju.edu.cn">yongming.sun@zju.edu.cn</a></p>
+  </div>
+</section>
 
-My current work studies how digital technologies, artificial intelligence, e-commerce platforms, supply-chain risk, and policy institutions shape firms, workers, innovation, and inequality. I also conduct behavioral and cognitive research on numerical integration, effort, attention, and decision processes.
+<div class="profile-bio">
+  <p>I am a Ph.D. candidate in Economics at the School of Economics, Zhejiang University. My research focuses on international economics, technological change and labor markets, and behavioral economics.</p>
+  <p>I study how digital technologies and artificial intelligence shape firms' trade, innovation, and demand for labor skills. I also study numerical cognition and decision-making through behavioral experiments and computational models. My work combines econometric analysis with machine learning and text-as-data methods.</p>
+  <p>I received my MSc in Behavioral and Economic Science, with Distinction, from the University of Warwick and my BA in Economics from Donghua University.</p>
+  <p>See my <a href="{{ '/research/' | relative_url }}">research papers</a> and <a href="{{ '/cv/' | relative_url }}">CV</a>.</p>
+</div>
 
-## Research interests
-
-- International economics, digital trade, and firm behavior
-- Behavioral economics, numeric cognition, and decision processes
-- Public economics, innovation, inequality, and digital policy
-- Machine learning, NLP, text-as-data methods, and computational modeling
-
-## Selected recent publications
-
-- **Compressed representations and attentional competition in numeric integration for average estimations**, *Cognitive Psychology*, 2026.
-- **Strategic opportunism or risk response? Customer real earnings management following supplier litigation**, *The British Accounting Review*, 2026.
-- **Build or Break? The Impact of Rural E-commerce on Household Income Inequality in China**, *Review of Development Economics*, 2025.
-- **Risky effort**, *Cognition*, 2024.
-- **Enterprise digital transformation and disruptive technological innovation: micro evidence from patent networks and the SBERT model**, *China Industrial Economics*, 2024. **[Chinese-language publication]** Original title: <span lang="zh-Hans">企业数字化转型与颠覆性技术创新——来自专利网络与SBERT模型的微观证据</span>.
-
-For the full list, see [Publications](/publications/). Chinese-language publications are marked explicitly and include the original Chinese title.
-
-## Contact
-
-School of Economics, Zhejiang University  
-Hangzhou, Zhejiang, China  
-Email: [yongming.sun@zju.edu.cn](mailto:yongming.sun@zju.edu.cn)

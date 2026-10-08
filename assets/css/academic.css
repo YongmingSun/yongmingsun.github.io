@@ -1,0 +1,96 @@
+:root {
+  color-scheme: light;
+  --ink: #242b31;
+  --muted: #596168;
+  --link: #205d73;
+  --rule: #dde1e4;
+  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+  --serif: Georgia, "Times New Roman", serif;
+}
+* { box-sizing: border-box; }
+html { scroll-padding-top: 2rem; }
+body { margin: 0; background: #fff; color: var(--ink); font: 1rem/1.65 var(--serif); }
+a { color: var(--link); text-decoration-thickness: 1px; text-underline-offset: .2em; }
+a:hover { color: #133e4e; }
+a:focus-visible { outline: 2px solid var(--link); outline-offset: 5px; }
+h1, h2, h3 { font-family: var(--sans); }
+h1 { margin: 0 0 1.8rem; font-size: 2rem; line-height: 1.2; font-weight: 600; }
+p { margin: 0 0 1.15rem; }
+.skip-link { position: absolute; top: -5rem; left: 1rem; padding: .5rem 1rem; background: #fff; z-index: 10; }
+.skip-link:focus { top: .5rem; }
+.site-header { border-bottom: 1px solid var(--rule); font-family: var(--sans); }
+.header-inner { max-width: 1040px; min-height: 76px; margin: 0 auto; padding: 0 24px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .5rem 2rem; }
+.site-name { color: var(--ink); text-decoration: none; font-size: 1.125rem; font-weight: 500; }
+.site-nav { display: flex; flex-wrap: wrap; align-items: center; gap: 2rem; }
+.site-nav a { color: var(--muted); text-decoration: none; padding: 1.5rem 0; border-bottom: 2px solid transparent; font-size: 1rem; }
+.site-nav a:hover, .site-nav a[aria-current="page"] { color: var(--ink); border-bottom-color: var(--link); }
+.site-main { max-width: 1040px; margin: 0 auto; padding: 3rem 24px 4rem; }
+.site-footer { max-width: 992px; margin: 0 auto; padding: 1.25rem 0 2rem; border-top: 1px solid var(--rule); color: var(--muted); font: .875rem/1.5 var(--sans); }
+.site-footer p { margin: 0; }
+.profile-intro { display: grid; grid-template-columns: 268px 1fr; align-items: center; gap: 4.5rem; padding: 2.5rem 3rem; background: #f4f5f6; }
+.profile-photo { display: block; width: 268px; height: auto; max-width: 100%; }
+.profile-details { min-width: 0; }
+.profile-email a { overflow-wrap: anywhere; }
+.profile-details h1 { margin-bottom: 1.5rem; font-size: 2.5rem; letter-spacing: -.02em; }
+.profile-details p { margin: 0; line-height: 1.8; }
+.profile-details .profile-email { margin-top: 1rem; }
+.profile-bio { padding: 2.3rem 3rem 0; font-size: 1.0625rem; line-height: 1.8; }
+.profile-bio p:last-child { margin-top: 1.7rem; margin-bottom: 0; }
+.research-jump { display: flex; flex-wrap: wrap; column-gap: 1.65rem; row-gap: .6rem; margin: 0 0 3rem; padding: 0 0 1.5rem; border-bottom: 1px solid var(--rule); font: .9375rem/1.5 var(--sans); }
+.research-jump a { text-decoration: none; }
+.research-jump a:hover { text-decoration: underline; }
+.research-section { margin: 0 0 3.5rem; }
+.research-section:last-child { margin-bottom: 0; }
+.research-section h2 { margin: 0; padding-bottom: 1rem; border-bottom: 1px solid var(--ink); font-size: 1.25rem; line-height: 1.35; font-weight: 600; }
+.paper-columns, .paper { display: grid; grid-template-columns: minmax(0, 1.9fr) minmax(0, 1fr) minmax(0, 1fr); column-gap: 1.75rem; }
+.paper-columns { padding: .75rem 0; border-bottom: 1px solid var(--rule); font: .875rem/1.5 var(--sans); color: var(--muted); }
+.paper { padding: 1.25rem 0; border-bottom: 1px solid var(--rule); overflow-wrap: break-word; }
+.paper h3 { margin: 0; font-size: 1.0625rem; line-height: 1.5; font-weight: 500; }
+.paper p { margin: 0; }
+.paper-authors { font-size: .9375rem; line-height: 1.65; }
+.paper-authors strong { font-weight: 600; }
+.paper-status { font-size: 1rem; line-height: 1.5; }
+.paper-status .status-detail { display: block; margin-top: .25rem; color: var(--muted); font-size: .875rem; line-height: 1.6; }
+.paper-links { display: flex; flex-wrap: wrap; gap: .5rem 1rem; margin-top: .6rem !important; font: .875rem/1.5 var(--sans); }
+.paper-language { margin-top: .5rem !important; font-size: .875rem; line-height: 1.6; color: var(--muted); }
+.paper-language span[lang] { display: block; margin-top: .15rem; }
+.page-cv .site-main { max-width: 940px; }
+.page-cv h2 { margin: 2.5rem 0 1rem; padding-bottom: .5rem; border-bottom: 1px solid var(--rule); font-size: 1.25rem; font-weight: 600; line-height: 1.4; }
+.page-cv h2:first-of-type { margin-top: 1.5rem; }
+.page-cv ul, .page-cv ol { padding-left: 1.5rem; }
+.page-cv li { padding-left: .2rem; margin-bottom: .8rem; }
+.cv-contact { color: var(--muted); margin-top: -1rem; margin-bottom: 2rem; }
+.cv-contact a { overflow-wrap: anywhere; }
+@media (max-width: 800px) {
+  .profile-intro { grid-template-columns: 230px 1fr; gap: 2rem; padding: 2rem; }
+  .profile-photo { width: 230px; }
+  .profile-details h1 { font-size: 2.1rem; }
+  .profile-bio { padding: 2rem 1rem 0; }
+  .paper-columns, .paper { grid-template-columns: minmax(0, 1.7fr) minmax(0, 1fr) minmax(0, 1fr); gap: 1.1rem; }
+}
+@media (max-width: 600px) {
+  .header-inner { min-height: 100px; flex-direction: column; align-items: flex-start; justify-content: center; gap: .35rem; padding: .85rem 20px 0; }
+  .site-nav { gap: 1.8rem; }
+  .site-nav a { padding: .5rem 0 .75rem; }
+  .site-main { padding: 2rem 20px 3rem; }
+  .site-footer { margin: 0 20px; }
+  .profile-intro { grid-template-columns: 1fr; gap: 1.6rem; padding: 1.5rem; }
+  .profile-photo { width: 220px; }
+  .profile-details h1 { font-size: 2rem; margin-bottom: 1rem; }
+  .profile-bio { padding: 1.75rem 0 0; }
+  .profile-email a { overflow-wrap: anywhere; }
+  .research-jump { display: grid; gap: .7rem; margin-bottom: 2.5rem; }
+  .paper-columns { display: none; }
+  .paper { grid-template-columns: 1fr; gap: .65rem; padding: 1.3rem 0; }
+  .paper-authors { color: var(--muted); }
+  .paper-status { font-size: .9375rem; }
+  .research-section { margin-bottom: 2.5rem; }
+}
+@media print {
+  body { color: #000; font-size: 10pt; }
+  .site-header, .site-footer, .skip-link, .research-jump { display: none; }
+  .site-main, .page-cv .site-main { max-width: none; padding: 0; }
+  a { color: inherit; text-decoration: none; }
+  h1, h2, h3 { break-after: avoid; }
+  .paper, .page-cv li { break-inside: avoid; }
+}

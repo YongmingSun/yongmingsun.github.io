@@ -1,16 +1,9 @@
 # Main navigation links shown in the header.
 main:
+  - title: "Home"
+    url: /
   - title: "Research"
     url: /research/
-
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/
-
-  - title: "Projects"
-    url: /portfolio/
-
   - title: "CV"
     url: /cv/
+

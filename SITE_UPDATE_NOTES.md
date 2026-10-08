@@ -1,25 +1,10 @@
-# Site update notes
+# Website reorganization — October 2026
 
-These files are the first-version personal academic website for Yongming Sun, generated from the uploaded CV files.
+The main navigation now contains Home, Research, and CV only.
 
-Main source: the Chinese CV, treated as the most up-to-date version.
+Home uses the supplied portrait and a concise academic biography. The Research page presents all 23 entries from the previous Publications page, plus the two additional papers from the previous Research page, in five fields: AI, Skills & Innovation; International Trade; Behavioral & Cognitive Economics; Public Economics & Inequality; Other Research.
 
-Content choices:
+Paper titles, author order, journal names, years, manuscript statuses, and existing links are retained. The original Chinese titles and a language label accompany Chinese-language work. The CV retains the previous education, publications, presentations, projects, methods, and skills information. A past expected-completion date has been removed from the profile; the established Ph.D.-candidate status is retained.
 
-- English is used as the default site language.
-- Chinese-language publications and manuscripts are explicitly marked.
-- Original Chinese titles are retained next to English translations.
-- No photo/avatar is included.
-- Public contact information is limited to the Zhejiang University email address.
+The three pages share a minimal, responsive academic layout. Old Publications, Talks, Projects, and JSON-CV URLs redirect to the relevant main page. Template demonstrations and sample collections remain archived in the repository and are excluded from the public site.
 
-Files included:
-
-- `_config.yml`: site and author metadata, no avatar/photo.
-- `_data/navigation.yml`: simplified navigation: Research, Publications, Talks, Projects, CV.
-- `_pages/about.md`: homepage/profile.
-- `_pages/research.md`: selected research projects.
-- `_pages/publications.html`: journal articles and working papers.
-- `_pages/talks.html`: conference presentations.
-- `_pages/portfolio.html`: research software and funded projects.
-- `_pages/cv.md`: web CV.
-- `README.md`: project README.
