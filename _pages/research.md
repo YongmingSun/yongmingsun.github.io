@@ -12,7 +12,7 @@ redirect_from:
 
 <h1>Research</h1>
 
-<p class="research-intro">Selected publications and working papers. See my <a href="{{ '/cv/' | relative_url }}#journal-articles">CV for the full publication list</a>.</p>
+<p class="research-intro">Selected publications and working papers. See my <a href="{{ '/cv/' | relative_url }}#journal-articles">CV for additional publications and details</a>.</p>
 
 {% include research-list.html %}
 

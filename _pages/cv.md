@@ -29,32 +29,25 @@ Ph.D. candidate in Economics at Zhejiang University. Research focuses on **digit
 
 ## Journal articles
 
-1. Xianhai Huang, Handi Wang, **Yongming Sun**, et al. (2023). “Digital Technology and Firms' Export Quality Upgrading: Evidence from Machine Learning on Patent Texts.” *The Journal of Quantitative & Technical Economics* / 数量经济技术经济研究, 40(12), 69–89. **[Chinese-language publication]** Original title: <span lang="zh-Hans">数字技术与企业出口质量升级——来自专利文本机器学习的证据</span>.
-2. Mengtao Chen, Haojie Zhu, **Yongming Sun**, et al. (2023). “The impact of housing macroprudential policy on firm innovation: empirical evidence from China.” *Humanities and Social Sciences Communications*, 10(1), 498.
-3. Yiming Yuan, **Yongming Sun**, and Hangyu Chen. (2024). “Does artificial intelligence affect firms' inner wage gap?” *Applied Economics*, 1–7.
-4. **Yongming Sun** and Mengtao Chen. (2024). “How do banks finance firm innovation: evidence from syndicated loans in China.” *Applied Economics*, 1–17.
-5. Alice Mason, **Yongming Sun**, Nick Simonsen, et al. (2024). “Risky effort.” *Cognition*, 251, 105895.
-6. Xianhai Huang, **Yongming Sun**, and Mengtao Chen. (2024). “Enterprise Digital Transformation and Disruptive Technological Innovation: Micro Evidence from Patent Networks and the SBERT Model.” *China Industrial Economics* / 中国工业经济, 10, 137–154. **[Chinese-language publication]** Original title: <span lang="zh-Hans">企业数字化转型与颠覆性技术创新——来自专利网络与SBERT模型的微观证据</span>.
-7. **Yongming Sun**, Yiming Yuan, et al. (2025). “Build or Break? The Impact of Rural E-commerce on Household Income Inequality in China.” *Review of Development Economics*.
-8. Mengtao Chen, **Yongming Sun**, et al. (2025). “Digital government and firm innovation: evidence from textual analysis of local government purchases in China.” *Applied Economics Letters*.
-9. Shuangzhi Yang and **Yongming Sun**. (2025). “The first-mover advantage in FinTech: evidence from the banking industry in China.” *Applied Economics Letters*.
-10. Lei Wang and **Yongming Sun**. (2025). “Digital dividends? Rural E-commerce policy and urban-rural income disparity in China.” *Telecommunications Policy*.
-11. **Yongming Sun**, Alice Mason, and Sebastian Olschewski. (2026). “Compressed representations and attentional competition in numeric integration for average estimations.” *Cognitive Psychology*.
-12. Mengtao Chen and **Yongming Sun**. (2026). “Strategic Opportunism or Risk Response? Customer Real Earnings Management Following Supplier Litigation.” *The British Accounting Review*.
-13. Mengtao Chen, **Yongming Sun**, and Wenwei Chen. (2026). “Mechanisms Through Which Artificial Intelligence Technological Innovation Drives Entrepreneurship: Evidence from Manufacturing.” *Science Research Management* / 科研管理, 1–22. Online first. **[Chinese-language publication]** Original title: <span lang="zh-Hans">人工智能技术创新驱动创业的机制研究——来自制造业的证据</span>.
+1. Mengtao Chen, Haojie Zhu, **Yongming Sun**, et al. (2023). “The impact of housing macroprudential policy on firm innovation: empirical evidence from China.” *Humanities and Social Sciences Communications*, 10(1), 498.
+2. Yiming Yuan, **Yongming Sun**, and Hangyu Chen. (2024). “Does artificial intelligence affect firms' inner wage gap?” *Applied Economics*, 1–7.
+3. **Yongming Sun** and Mengtao Chen. (2024). “How do banks finance firm innovation: evidence from syndicated loans in China.” *Applied Economics*, 1–17.
+4. Alice Mason, **Yongming Sun**, Nick Simonsen, et al. (2024). “Risky effort.” *Cognition*, 251, 105895.
+5. **Yongming Sun**, Yiming Yuan, et al. (2025). “Build or Break? The Impact of Rural E-commerce on Household Income Inequality in China.” *Review of Development Economics*.
+6. Mengtao Chen, **Yongming Sun**, et al. (2025). “Digital government and firm innovation: evidence from textual analysis of local government purchases in China.” *Applied Economics Letters*.
+7. Shuangzhi Yang and **Yongming Sun**. (2025). “The first-mover advantage in FinTech: evidence from the banking industry in China.” *Applied Economics Letters*.
+8. Lei Wang and **Yongming Sun**. (2025). “Digital dividends? Rural E-commerce policy and urban-rural income disparity in China.” *Telecommunications Policy*.
+9. **Yongming Sun**, Alice Mason, and Sebastian Olschewski. (2026). “Compressed representations and attentional competition in numeric integration for average estimations.” *Cognitive Psychology*.
+10. Mengtao Chen and **Yongming Sun**. (2026). “Strategic Opportunism or Risk Response? Customer Real Earnings Management Following Supplier Litigation.” *The British Accounting Review*.
 
 ## Working papers
 
-1. Xianhai Huang, Yiming Yuan, and **Yongming Sun**. “AI Technology Empowers Firms' Disruptive Innovation: A Global Patent Network Analysis Based on Machine Learning.” Final review at *Management World* / 《管理世界》. **[Chinese-language manuscript]** Original title: <span lang="zh-Hans">人工智能技术赋能企业颠覆性创新的机理研究——基于机器学习的全球专利网络分析</span>.
-2. **Yongming Sun**, Zhiyuan Li, and Mengtao Chen. “AI and the Reconstruction of Firm Task-Governance Boundaries: Evidence from Labor Outsourcing.” Revision after external review at *The Journal of World Economy* / 《世界经济》. **[Chinese-language manuscript]** Original title: <span lang="zh-Hans">人工智能与企业任务治理边界重构——来自劳务外包的证据</span>.
-3. **Yongming Sun**, Yiming Yuan, Hangyu Chen, and Xianhai Huang. “Supply Chain Risk and the Dual Margins of Firms' Labor Skills.” Under external review at *Economic Research Journal* / 《经济研究》. **[Chinese-language manuscript]** Original title: <span lang="zh-Hans">供应链风险与企业劳动力技能二元边际</span>.
-4. Yiming Yuan, Xianhai Huang, and **Yongming Sun**. “Industrial Digitalization and High-Quality Firm Development: A Consumer-Demand-Oriented Perspective.” Initial review at *China Industrial Economics* / 《中国工业经济》. **[Chinese-language manuscript]** Original title: <span lang="zh-Hans">产业数字化与企业高质量发展——基于消费需求导向视角</span>.
-5. Mengtao Chen and **Yongming Sun**. “Does digital government development impede firms' R&D manipulation? Evidence from government procurement.” 2nd R&R at *Humanities and Social Sciences Communications*.
-6. **Yongming Sun**, Yiming Yuan, Mengqin Pan, et al. “Domestic demand and export: evidence from e-commerce and information consumption.” 1st R&R at *International Review of Economics & Finance*.
-7. Hangyu Chen, **Yongming Sun**, and Yiming Yuan. “Artificial Intelligence and Skills: Evidence from Contrastive Learning in Online Job Vacancies.” Available at SSRN.
-8. Mengtao Chen and **Yongming Sun**. “Does ESG divergence discourage firms from hoarding bad news? Evidence from crash risk.” Available at SSRN.
-9. Lei Wang, Yiming Yuan, **Yongming Sun**, et al. “Export Demand Shocks, Resource Allocation and Markups: Evidence from Chinese Multi-Product Firms.” Available at SSRN.
-10. **Yongming Sun**. “The Heterogeneity Impact of Geographical Proximity to Credit Resource on Firms' Market Performance.” Available at SSRN.
+1. Hangyu Chen, **Yongming Sun**, and Yiming Yuan. “Artificial Intelligence and Skills: Evidence from Contrastive Learning in Online Job Vacancies.” [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5924344).
+2. Handi Wang and **Yongming Sun**. “Data Collection, Sharing, and Innovation Along the Supply Chain.” Revise & Resubmit at *Journal of Banking & Finance*.
+3. Jialin Chen and **Yongming Sun**. “Strategic Delay and Intellectual Property Protection in North–South Technology Diffusion.” Under Review at *Review of International Economics*.
+4. **Yongming Sun**. “The Geography of Credit in Digital Trade: Evidence from Bank Branch Relocations.” Under Review at *Journal of Economic Geography*. [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169225).
+5. **Yongming Sun**, Yiming Yuan, and Kang Zhou. “Three Decades of Female Inventors in Technological Innovation.” Working paper.
+6. **Yongming Sun**, Sebastian Olschewski, Henrik Singmann, and Lukasz Walasek. “Task-specific Strategies Can Obscure the Inference from Observed Numeric Magnitude Judgments to Cognitive Processes.” Working paper. [Code](https://github.com/YongmingSun/strategicaveraging).
 
 ## Conference presentations
 

@@ -22,76 +22,36 @@
             ]
           },
           {
-            "id": "w-2",
-            "title": "AI and the Reconstruction of Firm Task-Governance Boundaries: Evidence from Labor Outsourcing",
+            "id": "data-collection-sharing-innovation",
+            "title": "Data Collection, Sharing, and Innovation Along the Supply Chain",
             "authors": [
-              "Yongming Sun",
-              "Zhiyuan Li",
-              "Mengtao Chen"
-            ],
-            "chinese_title": "人工智能与企业任务治理边界重构——来自劳务外包的证据",
-            "status": "Revision after external review at The Journal of World Economy"
-          },
-          {
-            "id": "w-3",
-            "title": "Supply Chain Risk and the Dual Margins of Firms' Labor Skills",
-            "authors": [
-              "Yongming Sun",
-              "Yiming Yuan",
-              "Hangyu Chen",
-              "Xianhai Huang"
-            ],
-            "chinese_title": "供应链风险与企业劳动力技能二元边际",
-            "status": "Under external review at Economic Research Journal"
-          },
-          {
-            "id": "w-1",
-            "title": "AI Technology Empowers Firms' Disruptive Innovation: A Global Patent Network Analysis Based on Machine Learning",
-            "authors": [
-              "Xianhai Huang",
-              "Yiming Yuan",
+              "Handi Wang",
               "Yongming Sun"
             ],
-            "chinese_title": "人工智能技术赋能企业颠覆性创新的机理研究——基于机器学习的全球专利网络分析",
-            "status": "Final review at Management World"
+            "status": "Revise & Resubmit at Journal of Banking & Finance"
           },
           {
-            "id": "w-4",
-            "title": "Industrial Digitalization and High-Quality Firm Development: A Consumer-Demand-Oriented Perspective",
+            "id": "strategic-delay-ip-diffusion",
+            "title": "Strategic Delay and Intellectual Property Protection in North–South Technology Diffusion",
             "authors": [
-              "Yiming Yuan",
-              "Xianhai Huang",
+              "Jialin Chen",
               "Yongming Sun"
             ],
-            "chinese_title": "产业数字化与企业高质量发展——基于消费需求导向视角",
-            "status": "Initial review at China Industrial Economics"
+            "status": "Under Review at Review of International Economics"
           },
           {
-            "id": "w-6",
-            "title": "Domestic demand and export: evidence from e-commerce and information consumption",
+            "id": "w-10",
+            "title": "The Geography of Credit in Digital Trade: Evidence from Bank Branch Relocations",
             "authors": [
-              "Yongming Sun",
-              "Yiming Yuan",
-              "Mengqin Pan",
-              "et al."
-            ],
-            "status": "1st R&R at International Review of Economics & Finance"
-          },
-          {
-            "id": "w-9",
-            "title": "Export Demand Shocks, Resource Allocation and Markups: Evidence from Chinese Multi-Product Firms",
-            "authors": [
-              "Lei Wang",
-              "Yiming Yuan",
-              "Yongming Sun",
-              "et al."
+              "Yongming Sun"
             ],
             "links": [
               {
                 "label": "Working paper",
-                "url": "https://scholar.google.com/scholar?oi=bibs&cluster=8461268338469892322&btnI=1&hl=en"
+                "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169225"
               }
-            ]
+            ],
+            "status": "Under Review at Journal of Economic Geography"
           },
           {
             "id": "female-inventors",
@@ -100,57 +60,6 @@
               "Yongming Sun",
               "Yiming Yuan",
               "Kang Zhou"
-            ]
-          },
-          {
-            "id": "w-5",
-            "title": "Does digital government development impede firms' R&D manipulation? Evidence from government procurement",
-            "authors": [
-              "Mengtao Chen",
-              "Yongming Sun"
-            ],
-            "status": "2nd R&R at Humanities and Social Sciences Communications"
-          }
-        ]
-      },
-      {
-        "title": "Selected publications",
-        "papers": [
-          {
-            "id": "j-6",
-            "title": "Enterprise Digital Transformation and Disruptive Technological Innovation: Micro Evidence from Patent Networks and the SBERT Model",
-            "authors": [
-              "Xianhai Huang",
-              "Yongming Sun",
-              "Mengtao Chen"
-            ],
-            "journal": "China Industrial Economics",
-            "year": "2024",
-            "chinese_title": "企业数字化转型与颠覆性技术创新——来自专利网络与SBERT模型的微观证据",
-            "links": [
-              {
-                "label": "Paper",
-                "url": "https://doi.org/10.19581/j.cnki.ciejournal.2024.10.008"
-              }
-            ]
-          },
-          {
-            "id": "j-1",
-            "title": "Digital Technology and Firms' Export Quality Upgrading: Evidence from Machine Learning on Patent Texts",
-            "authors": [
-              "Xianhai Huang",
-              "Handi Wang",
-              "Yongming Sun",
-              "et al."
-            ],
-            "journal": "The Journal of Quantitative & Technical Economics",
-            "year": "2023",
-            "chinese_title": "数字技术与企业出口质量升级——来自专利文本机器学习的证据",
-            "links": [
-              {
-                "label": "Paper",
-                "url": "https://doi.org/10.13653/j.cnki.jqte.20231018.002"
-              }
             ]
           }
         ]
@@ -249,38 +158,6 @@
               {
                 "label": "Paper",
                 "url": "https://www.sciencedirect.com/science/article/pii/S0890838926000831"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Working papers",
-        "papers": [
-          {
-            "id": "w-8",
-            "title": "Does ESG divergence discourage firms from hoarding bad news? Evidence from crash risk",
-            "authors": [
-              "Mengtao Chen",
-              "Yongming Sun"
-            ],
-            "links": [
-              {
-                "label": "Working paper",
-                "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5051791"
-              }
-            ]
-          },
-          {
-            "id": "w-10",
-            "title": "The Heterogeneity Impact of Geographical Proximity to Credit Resource on Firms' Market Performance",
-            "authors": [
-              "Yongming Sun"
-            ],
-            "links": [
-              {
-                "label": "Working paper",
-                "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169225"
               }
             ]
           }
