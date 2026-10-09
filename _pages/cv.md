@@ -18,7 +18,7 @@ redirect_from:
 
 ## Profile
 
-Ph.D. candidate in Economics at Zhejiang University. Research interests include **international economics**, **behavioral economics**, and **public economics**. Methodological expertise includes econometric analysis, machine learning, natural language processing, text-as-data methods, and computational cognitive modeling.
+Ph.D. candidate in Economics at Zhejiang University. Research focuses on **digital technologies, firms and labor**, and **behavioral and cognitive decision-making**. Methodological expertise includes econometric analysis, machine learning, natural language processing, text-as-data methods, and computational cognitive modeling.
 
 ## Education
 

@@ -1,19 +1,29 @@
 <nav class="research-jump" aria-label="Research fields">
   {% for field in site.data.research %}
+  {% unless field.secondary %}
   <a href="#{{ field.id }}">{{ field.title | escape }}</a>
+  {% endunless %}
   {% endfor %}
 </nav>
 <div class="research-list">
   {% for field in site.data.research %}
+  {% if field.secondary %}
+  <details class="research-section research-other">
+    <summary><h2 id="{{ field.id }}">{{ field.title | escape }}</h2></summary>
+  {% else %}
   <section class="research-section" aria-labelledby="{{ field.id }}">
     <h2 id="{{ field.id }}">{{ field.title | escape }}</h2>
+  {% endif %}
+    {% for group in field.groups %}
+    <div class="paper-group">
+    <h3 class="paper-group-title">{{ group.title | escape }}</h3>
     <div class="paper-columns" aria-hidden="true">
       <span>Paper &amp; materials</span><span>Authors</span><span>Publication / status</span>
     </div>
-    {% for paper in field.papers %}
+    {% for paper in group.papers %}
     <article class="paper" aria-labelledby="{{ paper.id }}">
       <div class="paper-main">
-        <h3 id="{{ paper.id }}">{{ paper.title | escape }}</h3>
+        <h4 id="{{ paper.id }}">{{ paper.title | escape }}</h4>
         {% if paper.chinese_title %}
         <p class="paper-language">In Chinese<span lang="zh-Hans">{{ paper.chinese_title | escape }}</span></p>
         {% endif %}
@@ -34,6 +44,12 @@
       </p>
     </article>
     {% endfor %}
+    </div>
+    {% endfor %}
+  {% if field.secondary %}
+  </details>
+  {% else %}
   </section>
+  {% endif %}
   {% endfor %}
 </div>
