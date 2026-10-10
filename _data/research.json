@@ -140,7 +140,7 @@
     "secondary": true,
     "groups": [
       {
-        "title": "Selected publication",
+        "title": "Selected publications",
         "papers": [
           {
             "id": "j-12",
@@ -154,6 +154,25 @@
               {
                 "label": "Paper",
                 "url": "https://www.sciencedirect.com/science/article/pii/S0890838926000831"
+              }
+            ]
+          },
+          {
+            "id": "j-10",
+            "title": "Digital dividends? Rural E-commerce policy and urban-rural income disparity in China",
+            "coauthors": [
+              "Lei Wang"
+            ],
+            "journal": "Telecommunications Policy",
+            "year": "2025",
+            "links": [
+              {
+                "label": "Paper",
+                "url": "https://doi.org/10.1016/j.telpol.2025.103058"
+              },
+              {
+                "label": "VoxChina",
+                "url": "https://voxchina.org/show-3-428.html"
               }
             ]
           }
