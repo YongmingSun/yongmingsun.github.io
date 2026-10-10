@@ -23,6 +23,6 @@ redirect_from:
   <p>I am a Ph.D. candidate in Economics at the School of Economics, Zhejiang University. My research centers on digital technologies, firms and labor, alongside behavioral and cognitive decision-making.</p>
   <p>I study how artificial intelligence and digitalization reshape firm organization, innovation, and demand for labor skills. In my behavioral research, I examine numerical cognition and decision-making using experiments and computational models. My work combines econometric analysis with machine learning and text-as-data methods.</p>
   <p>I received my MSc in Behavioral and Economic Science, with Distinction, from the University of Warwick and my BA in Economics from Donghua University.</p>
-  <p>See my <a href="{{ '/research/' | relative_url }}">research papers</a> and <a href="{{ '/cv/' | relative_url }}">CV</a>.</p>
+  <p>See my <a href="{{ '/research/' | relative_url }}">research papers</a> and <a href="https://drive.google.com/file/d/1wZszB1pJRNRmCYXQVO6U0BC88Gx7chF9/view?usp=sharing">CV</a>.</p>
 </div>
 

@@ -9,10 +9,10 @@
           {
             "id": "w-7",
             "title": "Artificial Intelligence and Skills: Evidence from Contrastive Learning in Online Job Vacancies",
-            "authors": [
+            "coauthors": [
               "Hangyu Chen",
-              "Yongming Sun",
-              "Yiming Yuan"
+              "Yiming Yuan",
+              "Hongliang Zhang"
             ],
             "links": [
               {
@@ -24,27 +24,22 @@
           {
             "id": "data-collection-sharing-innovation",
             "title": "Data Collection, Sharing, and Innovation Along the Supply Chain",
-            "authors": [
-              "Handi Wang",
-              "Yongming Sun"
+            "coauthors": [
+              "Handi Wang"
             ],
             "status": "Revise & Resubmit at Journal of Banking & Finance"
           },
           {
             "id": "strategic-delay-ip-diffusion",
             "title": "Strategic Delay and Intellectual Property Protection in North–South Technology Diffusion",
-            "authors": [
-              "Jialin Chen",
-              "Yongming Sun"
+            "coauthors": [
+              "Jialin Chen"
             ],
             "status": "Under Review at Review of International Economics"
           },
           {
             "id": "w-10",
             "title": "The Geography of Credit in Digital Trade: Evidence from Bank Branch Relocations",
-            "authors": [
-              "Yongming Sun"
-            ],
             "links": [
               {
                 "label": "Working paper",
@@ -56,8 +51,7 @@
           {
             "id": "female-inventors",
             "title": "Three Decades of Female Inventors in Technological Innovation",
-            "authors": [
-              "Yongming Sun",
+            "coauthors": [
               "Yiming Yuan",
               "Kang Zhou"
             ]
@@ -76,8 +70,7 @@
           {
             "id": "j-11",
             "title": "Compressed representations and attentional competition in numeric integration for average estimations",
-            "authors": [
-              "Yongming Sun",
+            "coauthors": [
               "Alice Mason",
               "Sebastian Olschewski"
             ],
@@ -101,8 +94,11 @@
               "Alice Mason",
               "Yongming Sun",
               "Nick Simonsen",
-              "et al."
+              "Christopher R. Madan",
+              "Marcia L. Spetch",
+              "Elliot A. Ludvig"
             ],
+            "full_author_list": true,
             "journal": "Cognition",
             "year": "2024",
             "links": [
@@ -119,9 +115,10 @@
         "papers": [
           {
             "id": "task-specific-numeric-judgments",
-            "title": "Task-specific Strategies Can Obscure the Inference from Observed Numeric Magnitude Judgments to Cognitive Processes",
-            "authors": [
-              "Yongming Sun",
+            "title": "Context-Dependent Cue Sensitivity in Numerical Summary Judgments",
+            "coauthors": [
+              "David Kellen",
+              "Emmanouil Konstantinidis",
               "Sebastian Olschewski",
               "Henrik Singmann",
               "Lukasz Walasek"
@@ -148,9 +145,8 @@
           {
             "id": "j-12",
             "title": "Strategic Opportunism or Risk Response? Customer Real Earnings Management Following Supplier Litigation",
-            "authors": [
-              "Mengtao Chen",
-              "Yongming Sun"
+            "coauthors": [
+              "Mengtao Chen"
             ],
             "journal": "The British Accounting Review",
             "year": "2026",
