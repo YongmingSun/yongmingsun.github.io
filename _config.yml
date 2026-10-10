@@ -25,7 +25,7 @@ author:
   # Academic websites
   academia         :
   arxiv            :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=X0mlLx0AAAAJ"
   inspire-hep      :
   impactstory      :
   orcid            :
@@ -112,6 +112,9 @@ social:
   type                   : Person
   name                   : Yongming Sun
   links:
+    - https://scholar.google.com/citations?user=X0mlLx0AAAAJ
+    - https://github.com/YongmingSun
+    - https://voxchina.org/show-4-868.html
 
 # Analytics
 analytics:
@@ -125,6 +128,9 @@ include:
   - _pages
   - files
 exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - scripts
   # Archive old sections and template demonstrations; the site has three main pages.
   - _posts
   - SITE_UPDATE_NOTES.md
@@ -211,6 +217,10 @@ collections:
 
 # Defaults
 defaults:
+  - scope:
+      path: "googled56987981e46cfef.html"
+    values:
+      sitemap: false
   - scope:
       path: ""
       type: posts

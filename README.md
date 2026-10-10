@@ -15,5 +15,7 @@ Update paper details in the research data file. Chinese-language papers are excl
 
 Research features four selected publications and six working papers. Digital Technologies, Firms & Labor leads with the AI and skills project, followed by papers on supply-chain data, technology diffusion, credit in digital trade, and female inventors. Behavioral & Cognitive Decision-Making is the second main strand. Other research has less prominence and is collapsed by default; it includes the “Digital dividends?” paper and its VoxChina article link.
 
-Old Publications links redirect to Research; legacy CV, Talks, and Projects links lead to the Google Drive CV. Template demonstration pages and collections are excluded from publication. Their original source files remain in the repository.
+Old Publications links redirect to Research; legacy CV, Talks, and Projects links lead to the Google Drive CV. Template demonstration pages are excluded from publication. Sample publications, talks, teaching, portfolio items, placeholder PDFs, the Markdown generator, and the unused talk map have been removed.
+
+Google Search Console verification is served unchanged at `/googled56987981e46cfef.html` and is excluded from the automatically generated sitemap. Keep this file in place after verification. `robots.txt` permits crawling and points to `/sitemap.xml`. The active academic layout includes `_includes/person-schema.html` to identify Yongming Sun and connect his Google Scholar, GitHub, and VoxChina profiles.
 
