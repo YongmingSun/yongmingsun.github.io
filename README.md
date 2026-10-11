@@ -6,6 +6,7 @@ The site has three main navigation links: Home, Research, and CV. CV opens the c
 
 - `_pages/about.md`: short biography and portrait.
 - `_data/research.json`: selected English-language publications and working papers, grouped into two main research strands. Each field has a `groups` array containing a heading and its `papers`; `secondary: true` puts Other research in a collapsed section. Paper records contain titles, coauthors, journal and year details for publications, and links. Coauthors are shown in a parenthesized “With” line in their stored order; solo papers omit the coauthor line. “Risky effort” lists coauthors only, without repeating Yongming Sun.
+- `_data/coauthor_urls.json`: coauthor website links keyed by the full names used in the research data; names without a supplied website remain plain text.
 - `_data/navigation.yml` and `_pages/about.md`: direct CV links to the current Google Drive file.
 - `_pages/cv.md`: redirect from the legacy CV URL to the Google Drive file.
 - `_layouts/academic.html`, `_includes/research-list.html`, and `assets/css/academic.css`: shared layout and responsive styling.

@@ -22,7 +22,7 @@
       <div class="paper-main">
         <h4 id="{{ paper.id }}">{{ paper.title | escape }}</h4>
         {% if paper.coauthors %}
-        <p class="paper-authors">(With {% for author in paper.coauthors %}{% unless forloop.first %}{% if forloop.last %} and {% else %}, {% endif %}{% endunless %}{{ author | escape }}{% endfor %})</p>
+        <p class="paper-authors">(With {% for author in paper.coauthors %}{% unless forloop.first %}{% if forloop.last %} and {% else %}, {% endif %}{% endunless %}{% assign author_url = site.data.coauthor_urls[author] %}{% if author_url %}<a href="{{ author_url | escape }}">{{ author | escape }}</a>{% else %}{{ author | escape }}{% endif %}{% endfor %})</p>
         {% endif %}
         {% if paper.journal %}
         <p class="paper-status"><em>{{ paper.journal | escape }}</em> ({{ paper.year }}).</p>
