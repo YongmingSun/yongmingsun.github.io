@@ -13,7 +13,7 @@ redirect_from:
 <section class="profile-intro" aria-labelledby="profile-name">
   <img class="profile-photo" src="{{ '/images/yongming-sun.png' | relative_url }}" alt="Portrait of Yongming Sun" width="1024" height="1024" fetchpriority="high">
   <div class="profile-details">
-    <h1 id="profile-name">Yongming Sun</h1>
+    <h1 id="profile-name">Yongming Sun <span lang="zh-Hans">孙涌铭</span></h1>
     <p>Ph.D. Candidate in Economics<br>School of Economics<br>Zhejiang University</p>
     <p class="profile-email"><a href="mailto:yongming.sun@zju.edu.cn">yongming.sun@zju.edu.cn</a></p>
   </div>
