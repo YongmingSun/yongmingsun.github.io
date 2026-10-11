@@ -22,20 +22,25 @@
             ]
           },
           {
-            "id": "data-collection-sharing-innovation",
-            "title": "Data Collection, Sharing, and Innovation Along the Supply Chain",
-            "coauthors": [
-              "Handi Wang"
-            ],
-            "status": "Revise & Resubmit at Journal of Banking & Finance"
+            "id": "contrastive-bi-encoder-skill-extraction",
+            "title": "Contrastive Bi-Encoder Models for Multi-Label Skill Extraction from Job Advertisements",
+            "links": [
+              {
+                "label": "arXiv",
+                "url": "https://arxiv.org/abs/2601.09119"
+              },
+              {
+                "label": "Code",
+                "url": "https://github.com/YongmingSun/JD2ESCO"
+              }
+            ]
           },
           {
             "id": "strategic-delay-ip-diffusion",
             "title": "Strategic Delay and Intellectual Property Protection in North–South Technology Diffusion",
             "coauthors": [
               "Jialin Chen"
-            ],
-            "status": "Under Review at Review of International Economics"
+            ]
           },
           {
             "id": "w-10",
@@ -45,8 +50,7 @@
                 "label": "Working paper",
                 "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169225"
               }
-            ],
-            "status": "Under Review at Journal of Economic Geography"
+            ]
           },
           {
             "id": "female-inventors",
@@ -90,15 +94,6 @@
           {
             "id": "j-5",
             "title": "Risky effort",
-            "authors": [
-              "Alice Mason",
-              "Yongming Sun",
-              "Nick Simonsen",
-              "Christopher R. Madan",
-              "Marcia L. Spetch",
-              "Elliot A. Ludvig"
-            ],
-            "full_author_list": true,
             "journal": "Cognition",
             "year": "2024",
             "links": [
@@ -106,6 +101,13 @@
                 "label": "Paper",
                 "url": "https://doi.org/10.1016/j.cognition.2024.105895"
               }
+            ],
+            "coauthors": [
+              "Alice Mason",
+              "Nick Simonsen",
+              "Christopher R. Madan",
+              "Marcia L. Spetch",
+              "Elliot A. Ludvig"
             ]
           }
         ]
